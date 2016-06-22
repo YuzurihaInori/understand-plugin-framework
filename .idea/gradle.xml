@@ -5,8 +5,6 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8" />
-        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,6 +14,7 @@
             <option value="$PROJECT_DIR$/dynamic-proxy-hook" />
             <option value="$PROJECT_DIR$/intercept-activity" />
             <option value="$PROJECT_DIR$/receiver-management" />
+            <option value="$PROJECT_DIR$/service-management" />
           </set>
         </option>
         <option name="myModules">
@@ -27,6 +26,7 @@
             <option value="$PROJECT_DIR$/dynamic-proxy-hook" />
             <option value="$PROJECT_DIR$/intercept-activity" />
             <option value="$PROJECT_DIR$/receiver-management" />
+            <option value="$PROJECT_DIR$/service-management" />
           </set>
         </option>
       </GradleProjectSettings>
